@@ -24,6 +24,7 @@ pip install --editable .
 To process custom datasets and run the classifier, you will need to download RoBERTA. Download the RoBERTa checkpoints from [here](https://github.com/pytorch/fairseq/tree/master/examples/roberta#pre-trained-models). Alternatively, you could follow the commands below. If you want a smaller model, you can also setup a ROBERTA_BASE variable using a similar process.
 
 ```
+
 wget https://dl.fbaipublicfiles.com/fairseq/models/roberta.large.tar.gz
 tar -xzvf roberta.large.tar.gz
 
