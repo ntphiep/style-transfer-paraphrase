@@ -1,13 +1,9 @@
 import React from 'react';
 import {
-    Badge,
-    Container,
-    Col,
     Input,
     Form,
     FormText,
     Button,
-    Row,
     Dropdown, DropdownToggle, DropdownMenu, DropdownItem,
 } from 'reactstrap';
 import ReactBootstrapSlider from 'react-bootstrap-slider';
